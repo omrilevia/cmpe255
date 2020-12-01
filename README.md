@@ -11,6 +11,7 @@ This project is an attempt to create several classifiers to classify false tweet
 <b>sklearn classifiers.ipynb + tweets_sklearn.ipynb</b>: implementation of sklearn classifiers<br>
 <b>tweets_cnn.ipynb</b>: implementation of CNN with only text as input <br>
 <b>tweets_cnn_author.ipynb</b>: implementation of CNN with text and author as input<br>
+<b>demo.ipynb</b>: Demo with sample dataset featuring CNN implementation
 
 ## Getting a demo started
 

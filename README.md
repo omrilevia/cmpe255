@@ -4,8 +4,8 @@ This project is an attempt to create several classifiers to classify false tweet
 
 ## Index
 
-<b>MultiNomialNaiveBayes.ipynb</b>: multinomial Naive Bayes implementation <br>
-<b>NaiveBayes_NoSKlearn.ipynb</b>: Naive Bayes implementation attempt with no library support <br>
+<b>MultiNomialNaiveBayes.ipynb</b>: Multinomial Naive-Bayes implementation <br>
+<b>NaiveBayes_NoSKlearn.ipynb</b>: Naive-Bayes implementation attempt with no library support <br>
 <b>create_tweet_data.ipynb</b>: creation of dataset <br>
 <b>naive Bayes Classifier.ipynb</b>: naive bayes implementation<br>
 <b>sklearn classifiers.ipynb + tweets_sklearn.ipynb</b>: implementation of sklearn classifiers<br>
